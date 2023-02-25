@@ -12,4 +12,5 @@ Step3: Deploy computer's ships
 THe computer will deploy 5 ships by randomly picking X and Y coordinates. Your code is responsible for generating these locations. 
 
 Step 4: Battle
+
 Step 5: Game over
